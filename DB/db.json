@@ -1,0 +1,32 @@
+{
+  "admins": [
+    {
+      "id": 1,
+      "nombre": "Raul",
+      "user": "Raul2040",
+      "password": "123456raul"
+    },
+    {
+      "nombre": "santiago",
+      "email": "oboescrotolamo@gmail.com",
+      "usuario": "Juan12",
+      "password": "123456Juan",
+      "id": 2
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "nombre": "pepe",
+      "user": "PEPE",
+      "password": "123456"
+    },
+    {
+      "nombre": "Danna",
+      "email": "Danna@gmail.com",
+      "usuario": "Chrryelpis",
+      "password": "123",
+      "id": 2
+    }
+  ]
+}
